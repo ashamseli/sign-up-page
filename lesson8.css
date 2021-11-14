@@ -1,0 +1,118 @@
+.test{ 
+    height: 400px;
+    width: 400px;
+    border: 1px solid rgb(36, 35, 35);
+    background-color: rgb(36, 35, 35);
+    margin: 100px auto;  
+      
+}
+.reg{
+    width: 173px;
+    height: 25px;
+    border: 0px solid rgb(36, 35, 35);
+    display: inline-block;
+    margin-top: 20px;
+}
+#sign{
+    margin-left: 27px;
+    background-color: seagreen;
+    text-align: center;
+    padding-top: 5px;
+  padding-bottom: 5px;
+  
+}
+#log{
+  padding-top: 5px;
+  padding-bottom: 5px;
+    text-align: center;
+    background-color: rgb(73, 72, 72);
+}
+.text{
+    color: white; 
+    text-align: center;}
+       
+.firstN{
+margin-left: 30px;
+width: 160px;
+height: 27px;
+background-color: rgb(36, 35, 35);
+border-color: silver;
+ }
+ #position{     
+     left: 180px;
+     position:relative;
+ }
+ #absolute{
+     position:absolute;
+ }
+    .div2{
+     margin-left: 30px;
+    top: 19px;
+    position: relative;
+    background-color:seagreen;
+    color: white;
+    display: inline-block;
+    width: 20px; 
+    height: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+
+    }
+
+ .EmAdres{
+     top: 270px;
+     margin-left: 0px;
+    border-color: white;  
+    height: 27px;
+    width: 310px;
+    display: inline-block; 
+    position:absolute;
+    background-color:rgb(36, 35, 35) ; 
+ }
+
+ .SentPass{
+    bottom: 280px;
+    margin-left: 522px;
+   border-color: white;  
+   height: 27px;
+   width: 310px;
+   display: inline-block; 
+   position:relative;
+   background-color:rgb(36, 35, 35) ;
+ }
+ .div3{
+   margin-left: 498px;
+    top: 321px;
+    position: absolute;
+    background-color:seagreen;
+    color: white;
+    display: inline-block;
+    width: 20px; 
+    height: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+
+ }
+ .get{
+    width: 342px;
+    height: 30px;
+    border: 0px solid rgb(0, 0, 0);
+    display: inline-block;
+    position: absolute;  
+ }
+#STARTED{
+   bottom: 213px;
+    background-color: seagreen;
+    text-align: center;
+   right: 502px;
+   padding-top: 7px;
+   padding-bottom: 3px;
+   
+}
+
+.white{
+    color: aliceblue;
+    text-decoration: whitesmoke;
+}
